@@ -1,0 +1,8 @@
+D:\aaa\testt\LinearStructures\BFSwidthCrawl\bin\Debug\BFSwidthCrawl.exe.config
+D:\aaa\testt\LinearStructures\BFSwidthCrawl\bin\Debug\BFSwidthCrawl.exe
+D:\aaa\testt\LinearStructures\BFSwidthCrawl\bin\Debug\BFSwidthCrawl.pdb
+D:\aaa\testt\LinearStructures\BFSwidthCrawl\obj\Debug\BFSwidthCrawl.csproj.AssemblyReference.cache
+D:\aaa\testt\LinearStructures\BFSwidthCrawl\obj\Debug\BFSwidthCrawl.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LinearStructures\BFSwidthCrawl\obj\Debug\BFSwidthCrawl.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LinearStructures\BFSwidthCrawl\obj\Debug\BFSwidthCrawl.exe
+D:\aaa\testt\LinearStructures\BFSwidthCrawl\obj\Debug\BFSwidthCrawl.pdb

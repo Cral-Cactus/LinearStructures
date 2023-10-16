@@ -1,0 +1,8 @@
+D:\aaa\testt\LinearStructures\RemoveOrAddMethod\bin\Debug\RemoveOrAddMethod.exe.config
+D:\aaa\testt\LinearStructures\RemoveOrAddMethod\bin\Debug\RemoveOrAddMethod.exe
+D:\aaa\testt\LinearStructures\RemoveOrAddMethod\bin\Debug\RemoveOrAddMethod.pdb
+D:\aaa\testt\LinearStructures\RemoveOrAddMethod\obj\Debug\RemoveOrAddMethod.csproj.AssemblyReference.cache
+D:\aaa\testt\LinearStructures\RemoveOrAddMethod\obj\Debug\RemoveOrAddMethod.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LinearStructures\RemoveOrAddMethod\obj\Debug\RemoveOrAddMethod.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LinearStructures\RemoveOrAddMethod\obj\Debug\RemoveOrAddMethod.exe
+D:\aaa\testt\LinearStructures\RemoveOrAddMethod\obj\Debug\RemoveOrAddMethod.pdb

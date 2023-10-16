@@ -1,0 +1,8 @@
+D:\aaa\testt\LinearStructures\CheckIfNumberBelongToArray\bin\Debug\CheckIfNumberBelongToArray.exe.config
+D:\aaa\testt\LinearStructures\CheckIfNumberBelongToArray\bin\Debug\CheckIfNumberBelongToArray.exe
+D:\aaa\testt\LinearStructures\CheckIfNumberBelongToArray\bin\Debug\CheckIfNumberBelongToArray.pdb
+D:\aaa\testt\LinearStructures\CheckIfNumberBelongToArray\obj\Debug\CheckIfNumberBelongToArray.csproj.AssemblyReference.cache
+D:\aaa\testt\LinearStructures\CheckIfNumberBelongToArray\obj\Debug\CheckIfNumberBelongToArray.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LinearStructures\CheckIfNumberBelongToArray\obj\Debug\CheckIfNumberBelongToArray.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LinearStructures\CheckIfNumberBelongToArray\obj\Debug\CheckIfNumberBelongToArray.exe
+D:\aaa\testt\LinearStructures\CheckIfNumberBelongToArray\obj\Debug\CheckIfNumberBelongToArray.pdb

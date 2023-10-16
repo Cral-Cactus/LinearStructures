@@ -1,0 +1,8 @@
+D:\aaa\testt\LinearStructures\SearchInArray\bin\Debug\SearchInArray.exe.config
+D:\aaa\testt\LinearStructures\SearchInArray\bin\Debug\SearchInArray.exe
+D:\aaa\testt\LinearStructures\SearchInArray\bin\Debug\SearchInArray.pdb
+D:\aaa\testt\LinearStructures\SearchInArray\obj\Debug\SearchInArray.csproj.AssemblyReference.cache
+D:\aaa\testt\LinearStructures\SearchInArray\obj\Debug\SearchInArray.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LinearStructures\SearchInArray\obj\Debug\SearchInArray.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LinearStructures\SearchInArray\obj\Debug\SearchInArray.exe
+D:\aaa\testt\LinearStructures\SearchInArray\obj\Debug\SearchInArray.pdb

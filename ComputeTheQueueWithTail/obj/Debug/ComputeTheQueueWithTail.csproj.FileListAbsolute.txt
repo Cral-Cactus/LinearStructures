@@ -1,0 +1,8 @@
+D:\aaa\testt\LinearStructures\ComputeTheQueueWithTail\bin\Debug\ComputeTheQueueWithTail.exe.config
+D:\aaa\testt\LinearStructures\ComputeTheQueueWithTail\bin\Debug\ComputeTheQueueWithTail.exe
+D:\aaa\testt\LinearStructures\ComputeTheQueueWithTail\bin\Debug\ComputeTheQueueWithTail.pdb
+D:\aaa\testt\LinearStructures\ComputeTheQueueWithTail\obj\Debug\ComputeTheQueueWithTail.csproj.AssemblyReference.cache
+D:\aaa\testt\LinearStructures\ComputeTheQueueWithTail\obj\Debug\ComputeTheQueueWithTail.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LinearStructures\ComputeTheQueueWithTail\obj\Debug\ComputeTheQueueWithTail.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LinearStructures\ComputeTheQueueWithTail\obj\Debug\ComputeTheQueueWithTail.exe
+D:\aaa\testt\LinearStructures\ComputeTheQueueWithTail\obj\Debug\ComputeTheQueueWithTail.pdb

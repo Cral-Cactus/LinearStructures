@@ -1,0 +1,8 @@
+D:\aaa\testt\LinearStructures\ReverseTheSequence\bin\Debug\ReverseTheSequence.exe.config
+D:\aaa\testt\LinearStructures\ReverseTheSequence\bin\Debug\ReverseTheSequence.exe
+D:\aaa\testt\LinearStructures\ReverseTheSequence\bin\Debug\ReverseTheSequence.pdb
+D:\aaa\testt\LinearStructures\ReverseTheSequence\obj\Debug\ReverseTheSequence.csproj.AssemblyReference.cache
+D:\aaa\testt\LinearStructures\ReverseTheSequence\obj\Debug\ReverseTheSequence.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LinearStructures\ReverseTheSequence\obj\Debug\ReverseTheSequence.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LinearStructures\ReverseTheSequence\obj\Debug\ReverseTheSequence.exe
+D:\aaa\testt\LinearStructures\ReverseTheSequence\obj\Debug\ReverseTheSequence.pdb

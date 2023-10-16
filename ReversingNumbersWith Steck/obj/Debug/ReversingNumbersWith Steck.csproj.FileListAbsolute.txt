@@ -1,0 +1,8 @@
+D:\aaa\testt\LinearStructures\ReversingNumbersWith Steck\bin\Debug\ReversingNumbersWith Steck.exe.config
+D:\aaa\testt\LinearStructures\ReversingNumbersWith Steck\bin\Debug\ReversingNumbersWith Steck.exe
+D:\aaa\testt\LinearStructures\ReversingNumbersWith Steck\bin\Debug\ReversingNumbersWith Steck.pdb
+D:\aaa\testt\LinearStructures\ReversingNumbersWith Steck\obj\Debug\ReversingNumbersWith Steck.csproj.AssemblyReference.cache
+D:\aaa\testt\LinearStructures\ReversingNumbersWith Steck\obj\Debug\ReversingNumbersWith Steck.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LinearStructures\ReversingNumbersWith Steck\obj\Debug\ReversingNumbersWith Steck.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LinearStructures\ReversingNumbersWith Steck\obj\Debug\ReversingNumbersWith Steck.exe
+D:\aaa\testt\LinearStructures\ReversingNumbersWith Steck\obj\Debug\ReversingNumbersWith Steck.pdb

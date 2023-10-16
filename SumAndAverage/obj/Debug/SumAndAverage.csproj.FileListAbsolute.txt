@@ -1,0 +1,8 @@
+D:\aaa\testt\LinearStructures\SumAndAverage\bin\Debug\SumAndAverage.exe.config
+D:\aaa\testt\LinearStructures\SumAndAverage\bin\Debug\SumAndAverage.exe
+D:\aaa\testt\LinearStructures\SumAndAverage\bin\Debug\SumAndAverage.pdb
+D:\aaa\testt\LinearStructures\SumAndAverage\obj\Debug\SumAndAverage.csproj.AssemblyReference.cache
+D:\aaa\testt\LinearStructures\SumAndAverage\obj\Debug\SumAndAverage.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LinearStructures\SumAndAverage\obj\Debug\SumAndAverage.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LinearStructures\SumAndAverage\obj\Debug\SumAndAverage.exe
+D:\aaa\testt\LinearStructures\SumAndAverage\obj\Debug\SumAndAverage.pdb

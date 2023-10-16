@@ -1,0 +1,8 @@
+D:\aaa\testt\LinearStructures\MajoretteOfArray\bin\Debug\MajoretteOfArray.exe.config
+D:\aaa\testt\LinearStructures\MajoretteOfArray\bin\Debug\MajoretteOfArray.exe
+D:\aaa\testt\LinearStructures\MajoretteOfArray\bin\Debug\MajoretteOfArray.pdb
+D:\aaa\testt\LinearStructures\MajoretteOfArray\obj\Debug\MajoretteOfArray.csproj.AssemblyReference.cache
+D:\aaa\testt\LinearStructures\MajoretteOfArray\obj\Debug\MajoretteOfArray.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LinearStructures\MajoretteOfArray\obj\Debug\MajoretteOfArray.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LinearStructures\MajoretteOfArray\obj\Debug\MajoretteOfArray.exe
+D:\aaa\testt\LinearStructures\MajoretteOfArray\obj\Debug\MajoretteOfArray.pdb

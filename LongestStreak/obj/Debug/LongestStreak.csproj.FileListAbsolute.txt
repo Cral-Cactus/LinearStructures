@@ -1,0 +1,8 @@
+D:\aaa\testt\LinearStructures\LongestStreak\bin\Debug\LongestStreak.exe.config
+D:\aaa\testt\LinearStructures\LongestStreak\bin\Debug\LongestStreak.exe
+D:\aaa\testt\LinearStructures\LongestStreak\bin\Debug\LongestStreak.pdb
+D:\aaa\testt\LinearStructures\LongestStreak\obj\Debug\LongestStreak.csproj.AssemblyReference.cache
+D:\aaa\testt\LinearStructures\LongestStreak\obj\Debug\LongestStreak.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LinearStructures\LongestStreak\obj\Debug\LongestStreak.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LinearStructures\LongestStreak\obj\Debug\LongestStreak.exe
+D:\aaa\testt\LinearStructures\LongestStreak\obj\Debug\LongestStreak.pdb

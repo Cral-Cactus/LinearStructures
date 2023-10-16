@@ -1,0 +1,8 @@
+D:\aaa\testt\LinearStructures\RowNM\bin\Debug\RowNM.exe.config
+D:\aaa\testt\LinearStructures\RowNM\bin\Debug\RowNM.exe
+D:\aaa\testt\LinearStructures\RowNM\bin\Debug\RowNM.pdb
+D:\aaa\testt\LinearStructures\RowNM\obj\Debug\RowNM.csproj.AssemblyReference.cache
+D:\aaa\testt\LinearStructures\RowNM\obj\Debug\RowNM.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LinearStructures\RowNM\obj\Debug\RowNM.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LinearStructures\RowNM\obj\Debug\RowNM.exe
+D:\aaa\testt\LinearStructures\RowNM\obj\Debug\RowNM.pdb

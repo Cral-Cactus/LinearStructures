@@ -1,0 +1,8 @@
+D:\aaa\testt\LinearStructures\ArrayFashion\bin\Debug\ArrayFashion.exe.config
+D:\aaa\testt\LinearStructures\ArrayFashion\bin\Debug\ArrayFashion.exe
+D:\aaa\testt\LinearStructures\ArrayFashion\bin\Debug\ArrayFashion.pdb
+D:\aaa\testt\LinearStructures\ArrayFashion\obj\Debug\ArrayFashion.csproj.AssemblyReference.cache
+D:\aaa\testt\LinearStructures\ArrayFashion\obj\Debug\ArrayFashion.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LinearStructures\ArrayFashion\obj\Debug\ArrayFashion.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LinearStructures\ArrayFashion\obj\Debug\ArrayFashion.exe
+D:\aaa\testt\LinearStructures\ArrayFashion\obj\Debug\ArrayFashion.pdb

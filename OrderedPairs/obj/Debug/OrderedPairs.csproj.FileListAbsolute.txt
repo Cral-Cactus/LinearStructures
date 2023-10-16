@@ -1,0 +1,8 @@
+D:\aaa\testt\LinearStructures\OrderedPairs\bin\Debug\OrderedPairs.exe.config
+D:\aaa\testt\LinearStructures\OrderedPairs\bin\Debug\OrderedPairs.exe
+D:\aaa\testt\LinearStructures\OrderedPairs\bin\Debug\OrderedPairs.pdb
+D:\aaa\testt\LinearStructures\OrderedPairs\obj\Debug\OrderedPairs.csproj.AssemblyReference.cache
+D:\aaa\testt\LinearStructures\OrderedPairs\obj\Debug\OrderedPairs.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LinearStructures\OrderedPairs\obj\Debug\OrderedPairs.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LinearStructures\OrderedPairs\obj\Debug\OrderedPairs.exe
+D:\aaa\testt\LinearStructures\OrderedPairs\obj\Debug\OrderedPairs.pdb

@@ -1,0 +1,8 @@
+D:\aaa\testt\LinearStructures\FrequencyOfMatch\bin\Debug\FrequencyOfMatch.exe.config
+D:\aaa\testt\LinearStructures\FrequencyOfMatch\bin\Debug\FrequencyOfMatch.exe
+D:\aaa\testt\LinearStructures\FrequencyOfMatch\bin\Debug\FrequencyOfMatch.pdb
+D:\aaa\testt\LinearStructures\FrequencyOfMatch\obj\Debug\FrequencyOfMatch.csproj.AssemblyReference.cache
+D:\aaa\testt\LinearStructures\FrequencyOfMatch\obj\Debug\FrequencyOfMatch.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LinearStructures\FrequencyOfMatch\obj\Debug\FrequencyOfMatch.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LinearStructures\FrequencyOfMatch\obj\Debug\FrequencyOfMatch.exe
+D:\aaa\testt\LinearStructures\FrequencyOfMatch\obj\Debug\FrequencyOfMatch.pdb

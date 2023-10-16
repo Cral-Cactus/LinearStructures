@@ -1,0 +1,8 @@
+D:\aaa\testt\LinearStructures\LowestNumber\bin\Debug\LowestNumber.exe.config
+D:\aaa\testt\LinearStructures\LowestNumber\bin\Debug\LowestNumber.exe
+D:\aaa\testt\LinearStructures\LowestNumber\bin\Debug\LowestNumber.pdb
+D:\aaa\testt\LinearStructures\LowestNumber\obj\Debug\LowestNumber.csproj.AssemblyReference.cache
+D:\aaa\testt\LinearStructures\LowestNumber\obj\Debug\LowestNumber.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LinearStructures\LowestNumber\obj\Debug\LowestNumber.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LinearStructures\LowestNumber\obj\Debug\LowestNumber.exe
+D:\aaa\testt\LinearStructures\LowestNumber\obj\Debug\LowestNumber.pdb

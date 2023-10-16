@@ -1,0 +1,8 @@
+D:\aaa\testt\LinearStructures\SortingWords\bin\Debug\SortingWords.exe.config
+D:\aaa\testt\LinearStructures\SortingWords\bin\Debug\SortingWords.exe
+D:\aaa\testt\LinearStructures\SortingWords\bin\Debug\SortingWords.pdb
+D:\aaa\testt\LinearStructures\SortingWords\obj\Debug\SortingWords.csproj.AssemblyReference.cache
+D:\aaa\testt\LinearStructures\SortingWords\obj\Debug\SortingWords.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LinearStructures\SortingWords\obj\Debug\SortingWords.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LinearStructures\SortingWords\obj\Debug\SortingWords.exe
+D:\aaa\testt\LinearStructures\SortingWords\obj\Debug\SortingWords.pdb

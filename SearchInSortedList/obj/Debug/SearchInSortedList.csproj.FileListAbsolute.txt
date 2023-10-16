@@ -1,0 +1,8 @@
+D:\aaa\testt\LinearStructures\SearchInSortedList\bin\Debug\SearchInSortedList.exe.config
+D:\aaa\testt\LinearStructures\SearchInSortedList\bin\Debug\SearchInSortedList.exe
+D:\aaa\testt\LinearStructures\SearchInSortedList\bin\Debug\SearchInSortedList.pdb
+D:\aaa\testt\LinearStructures\SearchInSortedList\obj\Debug\SearchInSortedList.csproj.AssemblyReference.cache
+D:\aaa\testt\LinearStructures\SearchInSortedList\obj\Debug\SearchInSortedList.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LinearStructures\SearchInSortedList\obj\Debug\SearchInSortedList.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LinearStructures\SearchInSortedList\obj\Debug\SearchInSortedList.exe
+D:\aaa\testt\LinearStructures\SearchInSortedList\obj\Debug\SearchInSortedList.pdb

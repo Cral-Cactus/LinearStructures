@@ -1,0 +1,8 @@
+D:\aaa\testt\LinearStructures\ListsMerge\bin\Debug\ListsMerge.exe.config
+D:\aaa\testt\LinearStructures\ListsMerge\bin\Debug\ListsMerge.exe
+D:\aaa\testt\LinearStructures\ListsMerge\bin\Debug\ListsMerge.pdb
+D:\aaa\testt\LinearStructures\ListsMerge\obj\Debug\ListsMerge.csproj.AssemblyReference.cache
+D:\aaa\testt\LinearStructures\ListsMerge\obj\Debug\ListsMerge.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LinearStructures\ListsMerge\obj\Debug\ListsMerge.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LinearStructures\ListsMerge\obj\Debug\ListsMerge.exe
+D:\aaa\testt\LinearStructures\ListsMerge\obj\Debug\ListsMerge.pdb

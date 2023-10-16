@@ -1,0 +1,8 @@
+D:\aaa\testt\LinearStructures\FilteringOddNumbers\bin\Debug\FilteringOddNumbers.exe.config
+D:\aaa\testt\LinearStructures\FilteringOddNumbers\bin\Debug\FilteringOddNumbers.exe
+D:\aaa\testt\LinearStructures\FilteringOddNumbers\bin\Debug\FilteringOddNumbers.pdb
+D:\aaa\testt\LinearStructures\FilteringOddNumbers\obj\Debug\FilteringOddNumbers.csproj.AssemblyReference.cache
+D:\aaa\testt\LinearStructures\FilteringOddNumbers\obj\Debug\FilteringOddNumbers.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LinearStructures\FilteringOddNumbers\obj\Debug\FilteringOddNumbers.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LinearStructures\FilteringOddNumbers\obj\Debug\FilteringOddNumbers.exe
+D:\aaa\testt\LinearStructures\FilteringOddNumbers\obj\Debug\FilteringOddNumbers.pdb

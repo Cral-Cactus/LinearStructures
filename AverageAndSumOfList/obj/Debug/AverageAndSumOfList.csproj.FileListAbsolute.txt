@@ -1,0 +1,8 @@
+D:\aaa\testt\LinearStructures\AverageAndSumOfList\bin\Debug\AverageAndSumOfList.exe.config
+D:\aaa\testt\LinearStructures\AverageAndSumOfList\bin\Debug\AverageAndSumOfList.exe
+D:\aaa\testt\LinearStructures\AverageAndSumOfList\bin\Debug\AverageAndSumOfList.pdb
+D:\aaa\testt\LinearStructures\AverageAndSumOfList\obj\Debug\AverageAndSumOfList.csproj.AssemblyReference.cache
+D:\aaa\testt\LinearStructures\AverageAndSumOfList\obj\Debug\AverageAndSumOfList.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LinearStructures\AverageAndSumOfList\obj\Debug\AverageAndSumOfList.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LinearStructures\AverageAndSumOfList\obj\Debug\AverageAndSumOfList.exe
+D:\aaa\testt\LinearStructures\AverageAndSumOfList\obj\Debug\AverageAndSumOfList.pdb

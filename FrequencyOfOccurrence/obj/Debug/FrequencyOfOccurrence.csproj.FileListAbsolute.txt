@@ -1,0 +1,8 @@
+D:\aaa\testt\LinearStructures\FrequencyOfOccurrence\bin\Debug\FrequencyOfOccurrence.exe.config
+D:\aaa\testt\LinearStructures\FrequencyOfOccurrence\bin\Debug\FrequencyOfOccurrence.exe
+D:\aaa\testt\LinearStructures\FrequencyOfOccurrence\bin\Debug\FrequencyOfOccurrence.pdb
+D:\aaa\testt\LinearStructures\FrequencyOfOccurrence\obj\Debug\FrequencyOfOccurrence.csproj.AssemblyReference.cache
+D:\aaa\testt\LinearStructures\FrequencyOfOccurrence\obj\Debug\FrequencyOfOccurrence.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LinearStructures\FrequencyOfOccurrence\obj\Debug\FrequencyOfOccurrence.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LinearStructures\FrequencyOfOccurrence\obj\Debug\FrequencyOfOccurrence.exe
+D:\aaa\testt\LinearStructures\FrequencyOfOccurrence\obj\Debug\FrequencyOfOccurrence.pdb
