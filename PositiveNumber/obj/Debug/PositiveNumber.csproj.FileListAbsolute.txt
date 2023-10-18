@@ -1,0 +1,8 @@
+D:\aaa\testt\LinearStructures\PositiveNumber\bin\Debug\PositiveNumber.exe.config
+D:\aaa\testt\LinearStructures\PositiveNumber\bin\Debug\PositiveNumber.exe
+D:\aaa\testt\LinearStructures\PositiveNumber\bin\Debug\PositiveNumber.pdb
+D:\aaa\testt\LinearStructures\PositiveNumber\obj\Debug\PositiveNumber.csproj.AssemblyReference.cache
+D:\aaa\testt\LinearStructures\PositiveNumber\obj\Debug\PositiveNumber.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LinearStructures\PositiveNumber\obj\Debug\PositiveNumber.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LinearStructures\PositiveNumber\obj\Debug\PositiveNumber.exe
+D:\aaa\testt\LinearStructures\PositiveNumber\obj\Debug\PositiveNumber.pdb

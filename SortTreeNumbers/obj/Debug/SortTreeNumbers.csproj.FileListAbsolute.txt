@@ -1,0 +1,8 @@
+D:\aaa\testt\LinearStructures\SortTreeNumbers\bin\Debug\SortTreeNumbers.exe.config
+D:\aaa\testt\LinearStructures\SortTreeNumbers\bin\Debug\SortTreeNumbers.exe
+D:\aaa\testt\LinearStructures\SortTreeNumbers\bin\Debug\SortTreeNumbers.pdb
+D:\aaa\testt\LinearStructures\SortTreeNumbers\obj\Debug\SortTreeNumbers.csproj.AssemblyReference.cache
+D:\aaa\testt\LinearStructures\SortTreeNumbers\obj\Debug\SortTreeNumbers.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LinearStructures\SortTreeNumbers\obj\Debug\SortTreeNumbers.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LinearStructures\SortTreeNumbers\obj\Debug\SortTreeNumbers.exe
+D:\aaa\testt\LinearStructures\SortTreeNumbers\obj\Debug\SortTreeNumbers.pdb

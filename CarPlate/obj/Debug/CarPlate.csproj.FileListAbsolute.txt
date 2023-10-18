@@ -1,0 +1,8 @@
+D:\aaa\testt\LinearStructures\CarPlate\bin\Debug\CarPlate.exe.config
+D:\aaa\testt\LinearStructures\CarPlate\bin\Debug\CarPlate.exe
+D:\aaa\testt\LinearStructures\CarPlate\bin\Debug\CarPlate.pdb
+D:\aaa\testt\LinearStructures\CarPlate\obj\Debug\CarPlate.csproj.AssemblyReference.cache
+D:\aaa\testt\LinearStructures\CarPlate\obj\Debug\CarPlate.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LinearStructures\CarPlate\obj\Debug\CarPlate.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LinearStructures\CarPlate\obj\Debug\CarPlate.exe
+D:\aaa\testt\LinearStructures\CarPlate\obj\Debug\CarPlate.pdb

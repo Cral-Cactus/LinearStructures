@@ -1,0 +1,8 @@
+D:\aaa\testt\LinearStructures\LowestNumOutOfFour\bin\Debug\LowestNumOutOfFour.exe.config
+D:\aaa\testt\LinearStructures\LowestNumOutOfFour\bin\Debug\LowestNumOutOfFour.exe
+D:\aaa\testt\LinearStructures\LowestNumOutOfFour\bin\Debug\LowestNumOutOfFour.pdb
+D:\aaa\testt\LinearStructures\LowestNumOutOfFour\obj\Debug\LowestNumOutOfFour.csproj.AssemblyReference.cache
+D:\aaa\testt\LinearStructures\LowestNumOutOfFour\obj\Debug\LowestNumOutOfFour.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LinearStructures\LowestNumOutOfFour\obj\Debug\LowestNumOutOfFour.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LinearStructures\LowestNumOutOfFour\obj\Debug\LowestNumOutOfFour.exe
+D:\aaa\testt\LinearStructures\LowestNumOutOfFour\obj\Debug\LowestNumOutOfFour.pdb

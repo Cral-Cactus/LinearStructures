@@ -1,0 +1,8 @@
+D:\aaa\testt\LinearStructures\Area\bin\Debug\Area.exe.config
+D:\aaa\testt\LinearStructures\Area\bin\Debug\Area.exe
+D:\aaa\testt\LinearStructures\Area\bin\Debug\Area.pdb
+D:\aaa\testt\LinearStructures\Area\obj\Debug\Area.csproj.AssemblyReference.cache
+D:\aaa\testt\LinearStructures\Area\obj\Debug\Area.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\LinearStructures\Area\obj\Debug\Area.csproj.CoreCompileInputs.cache
+D:\aaa\testt\LinearStructures\Area\obj\Debug\Area.exe
+D:\aaa\testt\LinearStructures\Area\obj\Debug\Area.pdb
