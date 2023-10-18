@@ -41,8 +41,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajoretteOfArray", "Majoret
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayFashion", "ArrayFashion\ArrayFashion.csproj", "{7548058B-C1C1-45FE-B344-DA63894A0919}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversingNumbersWith Steck", "ReversingNumbersWith Steck\ReversingNumbersWith Steck.csproj", "{C00AB3F7-3F46-417D-96E8-69FFC250F82F}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputeTheQueueWithTail", "ComputeTheQueueWithTail\ComputeTheQueueWithTail.csproj", "{5C44EBB8-2FB4-45EF-A139-A1BBBBEBF7C4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RowNM", "RowNM\RowNM.csproj", "{B5877F8F-D1DB-4479-A3EB-74503EA4EA67}"
@@ -60,6 +58,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area", "Area\Area.csproj", "{1B7A510B-F0D2-4868-92DD-EAB1EE16D01A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapYear", "LeapYear\LeapYear.csproj", "{34ABEA82-A9D4-4304-AA51-7416FC0980F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversingNumbersWithSteck", "ReversingNumbersWithSteck\ReversingNumbersWithSteck.csproj", "{C00AB3F7-3F46-417D-96E8-69FFC250F82F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -143,10 +143,6 @@ Global
 		{7548058B-C1C1-45FE-B344-DA63894A0919}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7548058B-C1C1-45FE-B344-DA63894A0919}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7548058B-C1C1-45FE-B344-DA63894A0919}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C00AB3F7-3F46-417D-96E8-69FFC250F82F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C00AB3F7-3F46-417D-96E8-69FFC250F82F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C00AB3F7-3F46-417D-96E8-69FFC250F82F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C00AB3F7-3F46-417D-96E8-69FFC250F82F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5C44EBB8-2FB4-45EF-A139-A1BBBBEBF7C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5C44EBB8-2FB4-45EF-A139-A1BBBBEBF7C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C44EBB8-2FB4-45EF-A139-A1BBBBEBF7C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -183,6 +179,10 @@ Global
 		{34ABEA82-A9D4-4304-AA51-7416FC0980F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34ABEA82-A9D4-4304-AA51-7416FC0980F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34ABEA82-A9D4-4304-AA51-7416FC0980F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C00AB3F7-3F46-417D-96E8-69FFC250F82F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00AB3F7-3F46-417D-96E8-69FFC250F82F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C00AB3F7-3F46-417D-96E8-69FFC250F82F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00AB3F7-3F46-417D-96E8-69FFC250F82F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

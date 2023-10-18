@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ReversingNumbersWith_Steck
+namespace ReversingNumbersWithSteck
 {
     internal class Program
     {
